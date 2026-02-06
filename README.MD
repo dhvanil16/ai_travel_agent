@@ -20,7 +20,7 @@ It automates travel research, planning, and scheduling—helping you design your
 1. Clone the GitHub repository
 
 ```bash
-git clone https://github.com/dhvanil16/ai_data_analysis_agent.git
+git clone https://github.com/dhvanil16/ai_travel_agent.git
 ```
 2. Install the required dependencies:
 
